@@ -1,8 +1,20 @@
 
 <h1 align="center">Привет 👋 Меня зовут Gabarite </h1>
 <p align="center">
-  <a href="https://youtu.be/bmjK4OxZzzM">YouTube</a> •
-  <a href="https://youtu.be/q5P4ZOEs8so">Telegram</a>
+<div align="center">
+<a href="https://github.com/KIRO2305" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/GABA" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/user/qwerty" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
 </p>
 
 ---
@@ -12,6 +24,30 @@
   
 
 <br/>  
+
+
+
+
+
+### 📝 Обо мне
+
+Я начинающий Frontend  разработчик. 
+# Мой профиль
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=KIRO2305&theme=discord&column=6&no-bg=true&no-frame=true)
+
+[Memory reboot](https://open.spotify.com/track/4WG3mAQIGHQJalK922wAiG?si=9fbbb86d44954951)
+
+``
+![Tran Thai Tuan Anh's Contributions](Works/merko.png)
+
+
+
+### 📈 Активность
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIRO2305&show_icons=true&ring_color=696df1&theme=midnight-purple)
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KIRO2305&show_icons=true&theme=midnight-purple)
 
 
 ## My Skill Set  
@@ -52,21 +88,6 @@
 <br/>  
 
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/KIRO2305" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/GABA" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/user/qwerty" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
 
 
 
@@ -98,26 +119,6 @@
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-### 📝 Обо мне
-
-Я начинающий Frontend  разработчик. 
-# Мой профиль
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=KIRO2305&theme=discord&column=6&no-bg=true&no-frame=true)
-
-[Memory reboot](https://open.spotify.com/track/4WG3mAQIGHQJalK922wAiG?si=9fbbb86d44954951)
-
-``
-![Tran Thai Tuan Anh's Contributions](Works/merko.png)
-
-
-
-### 📈 Активность
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIRO2305&show_icons=true&ring_color=696df1&theme=midnight-purple)
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KIRO2305&show_icons=true&theme=midnight-purple)
 
 
 
