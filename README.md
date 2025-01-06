@@ -44,7 +44,7 @@
 
 ### 📈 Активность
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIRO2305&show_icons=true&ring_color=696df1&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIRO2305&show_icons=true&ring_color=696df1&theme=midnight-purple&langs_count=5)
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KIRO2305&show_icons=true&theme=midnight-purple)
